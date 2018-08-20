@@ -1,6 +1,6 @@
 # 浅谈SEO
 ## SEO是为了增加网站流量而做的优化手段
-##SEO和SEM
+## SEO和SEM
 ### SEO：（Search Engine Optimezation）搜索引擎优化
 ### SEM：（Search Engine Marketing）搜索引擎营销
 ### SEO高投入、SEO低投入
